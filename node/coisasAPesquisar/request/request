@@ -1,0 +1,12 @@
+responsavel por fazer requicições http 
+
+ja includo com o metodo pipe
+
+ nos teste a seguir um baixa o codigo do site e exibi no console
+
+ logo em seguida ele criar um arquivo pegando o do html
+
+ e no terceiro salva o logo 
+
+
+ obs.: o tipo influencia na hora de rodar 

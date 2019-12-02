@@ -1,0 +1,64 @@
+o pm2 ele serve a pagina para você so que sem para ele 
+
+a menos que você gere o comando de stop.
+
+alem de ele poder servir como um cluster
+
+
+podemos instalar ele uma vez e utlizarmos globalmente
+
+para servir e so preciso digitar 
+----------------------------------
+pm2 start <filename>.<extension>
+
+para servir e gerar um numero de compias que a vão servir (cluster)
+--------------------------------------------------------------------
+pm2 start <filename>.<extension> -i  <numero>
+
+
+para ver o que ele esta requisitando temos 
+----------------------------------------
+pm2 log
+
+para ficar online mesmo que seu computador reinicie
+-----------------------------------------------------
+pm2 startup
+
+e se você fez alguma modificicação depois que gerou o startup
+------------------------------------------------------------
+pm2 save
+
+para ver o status da aplicação
+---------------------------------
+pm2 status 
+
+
+para monitorar
+-----------------------------------
+pm2 monit 
+
+
+para deletar o que ele estava servindo
+---------------------------------------
+pm2 delete <arquivo>
+
+
+para deletar todos
+----------------------------------------
+pm2 dellete all
+
+
+para parar 
+-------------------------------------------
+pm2 stop <arquivo>
+
+
+para parar todos
+-----------------------------------------
+pm2 stop all
+
+
+
+
+
+

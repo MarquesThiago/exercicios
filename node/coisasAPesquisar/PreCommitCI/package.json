@@ -1,0 +1,17 @@
+{
+  "name": "precommitci",
+  "version": "1.0.0",
+  "description": "",
+  "main": "function.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^24.9.0",
+    "pre-commit": "^1.2.2"
+  },
+    "pre-commit":"test"
+    
+}

@@ -1,0 +1,4 @@
+O parametro tem que ser  atribuito junto a rota e te mque ser especificado logo em segui na URL:
+com oesse, http://localhost:3030/about/thiago_silva
+e ´pode ser acesssado pelo req.params 
+se for acessar algo especifico tende utilizar o 'req.params.<nome_do_parametro>'

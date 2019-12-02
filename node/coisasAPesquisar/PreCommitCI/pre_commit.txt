@@ -1,0 +1,37 @@
+para primeiro ele temos de iniciar um git 
+
+com o comando 
+-----------------
+git init
+
+depois podemos começar um projeto com 
+------------------------------------
+npm init
+
+depois instalamos o jest para fazer as verificações C.I.
+----------------------------------------------------------
+npm install --save-dev jest
+
+e inistalamnos o pre-commit
+------------------------------
+npm install --save-dev pre-commit
+
+depois de termos o codigo vamos no arquivo package.json e adicionamos ao campo test o jest
+------------------------------------------------------------------------------------------
+
+'test': 'jest'
+
+e colocamos a variavel do json no final o script
+-----------------------------------------------------
+
+"pre-commit":[
+    "tets"
+]
+
+por final para destarmos colocamos no terminal 
+
+git add <filename>
+
+e
+
+git commit -m "messagem"

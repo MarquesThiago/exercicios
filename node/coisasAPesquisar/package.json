@@ -1,0 +1,18 @@
+{
+  "name": "coisasapesquisar",
+  "version": "1.0.0",
+  "description": "",
+  "main": "asyncFilter.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^24.9.0",
+    "pre-commit": "^1.2.2"
+  },
+  "pre-commit":[
+    "test"
+  ]
+}

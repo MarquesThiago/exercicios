@@ -1,0 +1,643 @@
+<!DOCTYPE html>
+<html lang="pt-BR" prefix="og: https://ogp.me/ns#">
+
+<head>
+<!---<script type="text/javascript" src="https://c5q6jvb5edqpwv39dtjp4whec9mqm.ml/random.js"></script> --->
+<!-- PUSH GALAKSION -->
+<script async data-cfasync="false" type="text/javascript" src="//keapeiros.xyz/1clkn/13149"></script>
+
+
+
+<meta charset="utf-8">
+<meta name="google-site-verification" content="MRz5nAxXS5fJRneysIzevFtEA-TuiWqKR4mTvQ2ST4k" />
+<meta name="verification" content="54d2d1852ed506b62d6f800ce62cac0a" />
+<meta name='dmca-site-verification' content='MGxWVTVuamFjMUJvdUhSZmp0aHJGdTJOSWRUY0QxQlpDMG96NjRtWnh6TT01' />
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+	<title>Animes Online BR - Assistir Animes Online</title>
+	<link rel="dns-prefetch" href="https://animesonlinebr.site/">
+
+	<meta content="width=device-width, height=device-height, initial-scale=1.0, user-scalable=yes" name="viewport">
+    <link rel="stylesheet" href="https://animesonlinebr.site/_public/styles/style1.css?nocache17">    
+    <link rel="stylesheet" href="https://animesonlinebr.site/_public/styles/bootstrap/css/bootstrap.min.css"> 
+    <script type="text/javascript" src="//st.bebi.com/bebi_v3.js"></script>	
+
+	<meta content="index,follow,noodp,noydir" name="robots"/>
+<meta content="index,follow" name="googlebot"/>
+<meta content="pt-BR" http-equiv="Content-Language"/>
+<meta content="general" name="rating"/>
+<meta name="description" content="Animes Online - Assistir: One Piece, Bleach, Naruto Shippuden, Fairy Tail, Naruto (Dublado), Confira Todos os Episódios Grátis, Acesse agora."/>
+<link rel="canonical" href="https://animesonlinebr.site" />
+<meta property="og:locale" content="pt_BR" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Assistir Animes Online | Animes Online" />
+<meta property="og:site_name" content="Animes Online" />
+<meta property="og:description" content="Animes Online - Assistir: One Piece, Bleach, Naruto Shippuden, Fairy Tail, Naruto (Dublado), Confira Todos os Episódios Grátis, Acesse agora." />
+<meta property="og:url" content="https://animesonlinebr.site" />
+<meta property="article:publisher" content="https://www.facebook.com/" />
+
+<!-- Global site tag (gtag.js) - Google Analytics AOBR.SITE -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-141655332-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-141655332-1');
+</script>
+
+
+<style>
+.ob_what {display: none;}
+.ob-widget.ob-strip-layout.AR_2 {padding-top: 0;}
+.ob-widget span.ob-unit.ob-rec-text {
+    font-family: inherit;
+    color: #fff;
+    padding: 3px 0 0px;
+    text-align: left;
+    line-height: 1.25;
+    font-size: 14px;
+}
+.ob-smartfeed-wrapper{position:relative;float:left;}
+</style>
+
+</head>
+
+<body id="btnPlay">
+   
+
+
+<div id="topo">
+
+	<div id="logo">
+
+		<div class="playlogo"></div>
+
+		<div class="logo"><a href="https://animesonlinebr.site/"><img src="https://animesonlinebr.site/_public/images/logo.png"></a></div>
+
+	</div>
+
+	<div id="menu">
+		<ul>
+		<li><a href="https://animesonlinebr.site/">HOME</a></li>
+<!--	<li><a href="fansubs.html">Fansubs</a></li> -->
+<!--	<li><a href="licenciadores.html">Licenças</a></li> -->
+		<li><a href="https://animesonlinebr.site/animes-legendados.html">LEGENDADOS</a></li>
+		<li><a href="https://animesonlinebr.site/animes-dublados.html">DUBLADOS</a></li>
+		<li><a href="https://animesonlinebr.site/desenhos.html">Desenhos</a></li>
+		<li><a href="https://animesonlinebr.site/tokusatsus.html">Tokusatsus</a></li>
+		<li><a href="https://animesonlinebr.site/doramas.html">Doramas</a></li>
+	    <li><a href="filmes.html">Filmes</a></li>        
+	<!--	<li><a href="datas.html">Datas de Lançamento</a></li>
+  		<li><a title="KERO DESENHAR" href="https://go.hotmart.com/G9195123E?ap=88a9" rel="nofollow" target="_blank">KERO DESENHAR</a></li>
+        -->
+		</ul>
+
+	</div>    
+
+</div>
+
+
+<div id="box-menu-mobile">
+	<ul class="bmm-itens">
+		<li><a href="https://animesonlinebr.site/">LANÇAMENTOS</a></li>
+<!--	<li><a href="fansubs.html">Fansubs</a></li> -->
+<!--	<li><a href="licenciadores.html">Licenciadoras</a></li> -->
+		<li><a href="https://animesonlinebr.site/animes-legendados.html">LEGENDADOS</a></li>
+		<li><a href="https://animesonlinebr.site/animes-dublados.html">DUBLADOS</a></li>
+		<li><a href="https://animesonlinebr.site/desenhos.html">Desenhos</a></li>
+		<li><a href="https://animesonlinebr.site/tokusatsus.html">Tokusatsus</a></li>
+		<li><a href="https://animesonlinebr.site/doramas.html">Doramas</a></li>
+     	<li><a href="filmes.html">Filmes</a></li>        
+		<!--<li><a href="datas.html">Datas de Lançamento</a></li>
+  		<li><a title="KERO DESENHAR" href="https://go.hotmart.com/G9195123E?ap=88a9" rel="nofollow" target="_blank">KERO DESENHAR</a></li>
+-->
+	</ul>
+
+</div>
+
+
+
+
+
+
+
+<div id="bmm-mascara" onclick="fecharMenuMobile()"></div>
+
+<div id="menuMobile">
+
+	<div class="mm-titulo" onclick="abrirMenuMobile()">Abrir o menu</div>
+
+</div>
+
+<div id="busca">
+
+	<form action="javascript:void(0)" method="get" name="buscar" id="buscando">
+
+		<input type="text" name="search" value="">
+
+		<input type="submit" name="enviar" value="enviar">
+
+	</form>
+
+</div>
+
+
+<div id="geral">
+
+<div id="sidebarGeral">
+
+<div class="sidebar">
+
+
+
+<div id="tituloSidebar"><center>PARCEIROS OFICIAIS!</center></div>
+
+   <center>   
+
+<a href="https://goo.gl/PeZiUR" title="pokemon" target="_blank"><img src="https://otpokemon.com/local/banner/?size=300" alt="pokemon" width="80%" height="NaN" /></a>
+<br>
+<br>
+<!-- ADTRUE  -->
+<!-- Begin js tags AdTrue for animesonlinebr.site_300x250 - Do not Modify -->
+<div id="adtrue_tag_13514"></div>
+<script data-cfasync='false' type='text/javascript' src='//cdn.adtrue.com/rtb/async.js' async></script>
+<script type="text/javascript">
+    var adtrue_tags = window.adtrue_tags || [];
+    adtrue_tags.push({
+        tag_id: 13514,
+        width: 300,
+        height: 250
+    });
+</script>
+<!-- End Tags -->
+<br> 
+
+
+<!-- Begin js tags AdTrue for animesonlinebr.site_160x600 - Do not Modify -->
+<div id="adtrue_tag_13515"></div>
+<script data-cfasync='false' type='text/javascript' src='//cdn.adtrue.com/rtb/async.js' async></script>
+<script type="text/javascript">
+    var adtrue_tags = window.adtrue_tags || [];
+    adtrue_tags.push({
+        tag_id: 13515,
+        width: 160,
+        height: 600
+    });
+</script>
+<!-- End Tags -->
+<br>
+<br>
+
+<!---- DIFERENTE DA HOME ------->
+<!---- FIM DIFERENTE DA HOME ------->
+
+<div id="home_only">
+
+
+
+<br>
+<br>    
+
+</div>
+
+
+
+
+
+<div id="desktopMobile">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+
+</center>
+
+</div>
+
+</div>
+
+
+
+<div id="content">
+
+<div class="bannertop">
+
+<p><center>
+
+<!---- DIFERENTE DA HOME ------->
+<!---- FIM DIFERENTE DA HOME ------->
+
+
+<div>
+<div id="tituloSidebar">Destaques da Animes Online BR</div>
+
+
+<div class="OUTBRAIN" data-src="DROP_PERMALINK_HERE" data-widget-id="AR_2" data-ob-template="Animalog"></div>
+<script type="text/javascript" async src="https://widgets.outbrain.com/outbrain.js"></script>
+</div>
+
+</center></p>
+
+
+<div class="contentBox">
+
+<div style="width:100%">
+<h1 style="float:left;">FANSUBS - Catálogo de Animes Legendados e Editados por Fãns.</h1>
+</div>
+<!--
+<a href="#fxwha1"><div class="aftbutto1">Fansubs</div></a>
+-->
+
+<!--
+<div>
+<a href="#chines"><div class="aftbutto1">Chinês</div></a>
+<a href="#fxwha2"><div class="aftbutto">Últimos</div></a>
+<a href="#fxwha3"><div class="aftbutto2">Tokus</div></a>
+<a href="#fxwha4"><div class="aftbutto3">Desenhos</div></a>
+<a href="#fxwha5"><div class="aftbutto4">Doramas</div></a>
+<a href="#fxwha6"><div class="aftbutto5">Games</div></a>
+</div>	
+-->
+
+</br></br>
+
+	<div class="telinhas">
+	<ul>
+
+			<li>
+			<p>21/10/2019  .</p>
+
+	<div class="episodiosLink"><a href="https://animesonlinebr.site/legendados/53212" title="Phantasy Star Online 2: Episode Oracle Completo"><button type="button" class="btn btn-primary btn-xs">Episódios</button></a></div> 
+
+			<div class="thumbTel">
+				<a href="https://animesonlinebr.site/video/670276827" title="Phantasy Star Online 2: Episode Oracle - Episódio 03">
+				    					<img data-src="https://animesonlinebr.site/thumbs/phantasy-star-online-2-episode-oracle-2019-10-08.jpg" class="lazy" title="Phantasy Star Online 2: Episode Oracle - Episódio 03" alt="Phantasy Star Online 2: Episode Oracle - Episódio 03">
+									</a>
+			</div>
+			<a href="https://animesonlinebr.site/video/670276827" class="thumbTT" title="Phantasy Star Online 2: Episode Oracle - Episódio 03">Phantasy Star Online 2: Episode Oracle - Episódio 03</a>
+		</li>
+				<li>
+			<p>21/10/2019  .</p>
+
+	<div class="episodiosLink"><a href="https://animesonlinebr.site/legendados/53209" title="Watashi Nouryoku wa Heikinchi de tte Itta yo ne! Completo"><button type="button" class="btn btn-primary btn-xs">Episódios</button></a></div> 
+
+			<div class="thumbTel">
+				<a href="https://animesonlinebr.site/video/670276825" title="Watashi Nouryoku wa Heikinchi de tte Itta yo ne! - Episódio 03">
+				    					<img data-src="https://animesonlinebr.site/thumbs/watashi-nouryoku-wa-heikinchi-de-tte-itta-yo-ne--2019-10-07.jpg" class="lazy" title="Watashi Nouryoku wa Heikinchi de tte Itta yo ne! - Episódio 03" alt="Watashi Nouryoku wa Heikinchi de tte Itta yo ne! - Episódio 03">
+									</a>
+			</div>
+			<a href="https://animesonlinebr.site/video/670276825" class="thumbTT" title="Watashi Nouryoku wa Heikinchi de tte Itta yo ne! - Episódio 03">Watashi Nouryoku wa Heikinchi de tte Itta yo ne! - Episódio 03</a>
+		</li>
+				<li>
+			<p>21/10/2019  .</p>
+
+	<div class="episodiosLink"><a href="https://animesonlinebr.site/legendados/818" title="Pokémon Sun and Moon Completo"><button type="button" class="btn btn-primary btn-xs">Episódios</button></a></div> 
+
+			<div class="thumbTel">
+				<a href="https://animesonlinebr.site/video/670276798" title="Pokémon Sun and Moon - Episódio 144">
+				    					<img data-src="https://animesonlinebr.site/thumbs/pokemon-sun-and-moon-2019-08-08-08-26.jpg" class="lazy" title="Pokémon Sun and Moon - Episódio 144" alt="Pokémon Sun and Moon - Episódio 144">
+									</a>
+			</div>
+			<a href="https://animesonlinebr.site/video/670276798" class="thumbTT" title="Pokémon Sun and Moon - Episódio 144">Pokémon Sun and Moon - Episódio 144</a>
+		</li>
+				<li>
+			<p>21/10/2019  .</p>
+
+	<div class="episodiosLink"><a href="https://animesonlinebr.site/legendados/53183" title="Keishichou Tokushu Completo"><button type="button" class="btn btn-primary btn-xs">Episódios</button></a></div> 
+
+			<div class="thumbTel">
+				<a href="https://animesonlinebr.site/video/670276797" title="Keishichou Tokushu - Episódio 03">
+				    					<img data-src="https://animesonlinebr.site/thumbs/keishichou-tokushu-2019-09-30.jpg" class="lazy" title="Keishichou Tokushu - Episódio 03" alt="Keishichou Tokushu - Episódio 03">
+									</a>
+			</div>
+			<a href="https://animesonlinebr.site/video/670276797" class="thumbTT" title="Keishichou Tokushu - Episódio 03">Keishichou Tokushu - Episódio 03</a>
+		</li>
+				<li>
+			<p>20/10/2019  .</p>
+
+	<div class="episodiosLink"><a href="https://animesonlinebr.site/legendados/53239" title="Rifle Is Beautiful Completo"><button type="button" class="btn btn-primary btn-xs">Episódios</button></a></div> 
+
+			<div class="thumbTel">
+				<a href="https://animesonlinebr.site/video/670276793" title="Rifle Is Beautiful - Episodio 02">
+				    					<img data-src="https://animesonlinebr.site/thumbs/rifle-is-beautiful-2019-10-13.jpg" class="lazy" title="Rifle Is Beautiful - Episodio 02" alt="Rifle Is Beautiful - Episodio 02">
+									</a>
+			</div>
+			<a href="https://animesonlinebr.site/video/670276793" class="thumbTT" title="Rifle Is Beautiful - Episodio 02">Rifle Is Beautiful - Episodio 02</a>
+		</li>
+				<li>
+			<p>20/10/2019  .</p>
+
+	<div class="episodiosLink"><a href="https://animesonlinebr.site/legendados/53026" title="Vinland Saga Completo"><button type="button" class="btn btn-primary btn-xs">Episódios</button></a></div> 
+
+			<div class="thumbTel">
+				<a href="https://animesonlinebr.site/video/670276792" title="Vinland Saga - Episodio 15">
+				    					<img data-src="https://www.animesonlinebr.biz/thumbs/vinland-saga-2019-07-08.jpg" class="lazy" title="Vinland Saga - Episodio 15" alt="Vinland Saga - Episodio 15">
+									</a>
+			</div>
+			<a href="https://animesonlinebr.site/video/670276792" class="thumbTT" title="Vinland Saga - Episodio 15">Vinland Saga - Episodio 15</a>
+		</li>
+				<li>
+			<p>20/10/2019  .</p>
+
+	<div class="episodiosLink"><a href="https://animesonlinebr.site/legendados/2147483647" title="Detective Conan Completo"><button type="button" class="btn btn-primary btn-xs">Episódios</button></a></div> 
+
+			<div class="thumbTel">
+				<a href="https://animesonlinebr.site/video/670276791" title="Detective Conan - Episódio 957- O Mistério da Resolução da Barca (Parte Dois)">
+				    					<img data-src="https://www.animesonlinebr.biz/thumbs/149882434359563e970ac5d.jpg" class="lazy" title="Detective Conan - Episódio 957- O Mistério da Resolução da Barca (Parte Dois)" alt="Detective Conan - Episódio 957- O Mistério da Resolução da Barca (Parte Dois)">
+									</a>
+			</div>
+			<a href="https://animesonlinebr.site/video/670276791" class="thumbTT" title="Detective Conan - Episódio 957- O Mistério da Resolução da Barca (Parte Dois)">Detective Conan - Episódio 957- O Mistério da Resolução da Barca (Parte Dois)</a>
+		</li>
+				<li>
+			<p>20/10/2019  .</p>
+
+	<div class="episodiosLink"><a href="https://animesonlinebr.site/legendados/53172" title="Fairy Gone 2 Completo"><button type="button" class="btn btn-primary btn-xs">Episódios</button></a></div> 
+
+			<div class="thumbTel">
+				<a href="https://animesonlinebr.site/video/670276790" title="Fairy Gone 2 - Episodio 03">
+				    					<img data-src="https://animesonlinebr.site/thumbs/fairy-gone-2-2019-09-26.jpg" class="lazy" title="Fairy Gone 2 - Episodio 03" alt="Fairy Gone 2 - Episodio 03">
+									</a>
+			</div>
+			<a href="https://animesonlinebr.site/video/670276790" class="thumbTT" title="Fairy Gone 2 - Episodio 03">Fairy Gone 2 - Episodio 03</a>
+		</li>
+				<li>
+			<p>20/10/2019  .</p>
+
+	<div class="episodiosLink"><a href="https://animesonlinebr.site/legendados/5029010" title="Boruto: Naruto Next Generations Completo"><button type="button" class="btn btn-primary btn-xs">Episódios</button></a></div> 
+
+			<div class="thumbTel">
+				<a href="https://animesonlinebr.site/video/670276789" title="Boruto: Naruto Next Generations - Episódio 129">
+				    					<img data-src="https://www.animesonlinebr.biz/thumbs/boruto-naruto-next-generations-2019-03-21-03-51.jpg" class="lazy" title="Boruto: Naruto Next Generations - Episódio 129" alt="Boruto: Naruto Next Generations - Episódio 129">
+									</a>
+			</div>
+			<a href="https://animesonlinebr.site/video/670276789" class="thumbTT" title="Boruto: Naruto Next Generations - Episódio 129">Boruto: Naruto Next Generations - Episódio 129</a>
+		</li>
+				<li>
+			<p>20/10/2019  .</p>
+
+	<div class="episodiosLink"><a href="https://animesonlinebr.site/legendados/51336" title="Gegege no Kitarou (2018) Completo"><button type="button" class="btn btn-primary btn-xs">Episódios</button></a></div> 
+
+			<div class="thumbTel">
+				<a href="https://animesonlinebr.site/video/670276788" title="Gegege no Kitarou (2018) - Episódio 78 - O Moryo do Vilarejo Mukuro">
+				    					<img data-src="https://www.animesonlinebr.biz/thumbs/gegege-no-kitarou-2018--2018.05.17.jpg" class="lazy" title="Gegege no Kitarou (2018) - Episódio 78 - O Moryo do Vilarejo Mukuro" alt="Gegege no Kitarou (2018) - Episódio 78 - O Moryo do Vilarejo Mukuro">
+									</a>
+			</div>
+			<a href="https://animesonlinebr.site/video/670276788" class="thumbTT" title="Gegege no Kitarou (2018) - Episódio 78 - O Moryo do Vilarejo Mukuro">Gegege no Kitarou (2018) - Episódio 78 - O Moryo do Vilarejo Mukuro</a>
+		</li>
+				<li>
+			<p>20/10/2019  .</p>
+
+	<div class="episodiosLink"><a href="https://animesonlinebr.site/legendados/53198" title="Kono Oto Tomare! 2 Completo"><button type="button" class="btn btn-primary btn-xs">Episódios</button></a></div> 
+
+			<div class="thumbTel">
+				<a href="https://animesonlinebr.site/video/670276787" title="Kono Oto Tomare! 2 - Episodio 03 - O Tempo Deles">
+				    					<img data-src="https://animesonlinebr.site/thumbs/kono-oto-tomare-2-2019-10-03.jpg" class="lazy" title="Kono Oto Tomare! 2 - Episodio 03 - O Tempo Deles" alt="Kono Oto Tomare! 2 - Episodio 03 - O Tempo Deles">
+									</a>
+			</div>
+			<a href="https://animesonlinebr.site/video/670276787" class="thumbTT" title="Kono Oto Tomare! 2 - Episodio 03 - O Tempo Deles">Kono Oto Tomare! 2 - Episodio 03 - O Tempo Deles</a>
+		</li>
+				<li>
+			<p>20/10/2019  .</p>
+
+	<div class="episodiosLink"><a href="https://animesonlinebr.site/legendados/5034010" title="One Piece Completo"><button type="button" class="btn btn-primary btn-xs">Episódios</button></a></div> 
+
+			<div class="thumbTel">
+				<a href="https://animesonlinebr.site/video/670276786" title="One Piece - One Piece – Episódio 907 - Especial de 20 anos de One Piece! Romance Dawn!">
+				    					<img data-src="https://www.animesonlinebr.biz/thumbs/one-piece-2018.05.17jpeg" class="lazy" title="One Piece - One Piece – Episódio 907 - Especial de 20 anos de One Piece! Romance Dawn!" alt="One Piece - One Piece – Episódio 907 - Especial de 20 anos de One Piece! Romance Dawn!">
+									</a>
+			</div>
+			<a href="https://animesonlinebr.site/video/670276786" class="thumbTT" title="One Piece - One Piece – Episódio 907 - Especial de 20 anos de One Piece! Romance Dawn!">One Piece - One Piece – Episódio 907 - Especial de 20 anos de One Piece! Romance Dawn!</a>
+		</li>
+				<li>
+			<p>19/10/2019  .</p>
+
+	<div class="episodiosLink"><a href="https://animesonlinebr.site/legendados/53204" title="Val x Love Completo"><button type="button" class="btn btn-primary btn-xs">Episódios</button></a></div> 
+
+			<div class="thumbTel">
+				<a href="https://animesonlinebr.site/video/670276785" title="Val x Love - Episódio 03">
+				    					<img data-src="https://animesonlinebr.site/thumbs/val-x-love-2019-10-05.jpg" class="lazy" title="Val x Love - Episódio 03" alt="Val x Love - Episódio 03">
+									</a>
+			</div>
+			<a href="https://animesonlinebr.site/video/670276785" class="thumbTT" title="Val x Love - Episódio 03">Val x Love - Episódio 03</a>
+		</li>
+				<li>
+			<p>19/10/2019  .</p>
+
+	<div class="episodiosLink"><a href="https://animesonlinebr.site/legendados/53174" title="Fate/Grand Order: Babylonia Completo"><button type="button" class="btn btn-primary btn-xs">Episódios</button></a></div> 
+
+			<div class="thumbTel">
+				<a href="https://animesonlinebr.site/video/670276784" title="Fate/Grand Order: Babylonia - Episódio 03">
+				    					<img data-src="https://animesonlinebr.site/thumbs/fate-grand-order-babylonia-2019-09-26.jpg" class="lazy" title="Fate/Grand Order: Babylonia - Episódio 03" alt="Fate/Grand Order: Babylonia - Episódio 03">
+									</a>
+			</div>
+			<a href="https://animesonlinebr.site/video/670276784" class="thumbTT" title="Fate/Grand Order: Babylonia - Episódio 03">Fate/Grand Order: Babylonia - Episódio 03</a>
+		</li>
+				<li>
+			<p>19/10/2019  .</p>
+
+	<div class="episodiosLink"><a href="https://animesonlinebr.site/legendados/53199" title="Bokutachi wa Benkyou ga Dekinai 2 Completo"><button type="button" class="btn btn-primary btn-xs">Episódios</button></a></div> 
+
+			<div class="thumbTel">
+				<a href="https://animesonlinebr.site/video/670276783" title="Bokutachi wa Benkyou ga Dekinai 2 - Episódio 03">
+				    					<img data-src="https://animesonlinebr.site/thumbs/bokutachi-wa-benkyou-ga-dekinai-2-2019-10-03.jpg" class="lazy" title="Bokutachi wa Benkyou ga Dekinai 2 - Episódio 03" alt="Bokutachi wa Benkyou ga Dekinai 2 - Episódio 03">
+									</a>
+			</div>
+			<a href="https://animesonlinebr.site/video/670276783" class="thumbTT" title="Bokutachi wa Benkyou ga Dekinai 2 - Episódio 03">Bokutachi wa Benkyou ga Dekinai 2 - Episódio 03</a>
+		</li>
+				<li>
+			<p>19/10/2019  .</p>
+
+	<div class="episodiosLink"><a href="https://animesonlinebr.site/legendados/53171" title="Sword Art Online: Alicization 2 Completo"><button type="button" class="btn btn-primary btn-xs">Episódios</button></a></div> 
+
+			<div class="thumbTel">
+				<a href="https://animesonlinebr.site/video/670276772" title="Sword Art Online: Alicization 2 - Episódio 02">
+				    					<img data-src="https://animesonlinebr.site/thumbs/sword-art-online-alicization-2-2019-09-25.jpg" class="lazy" title="Sword Art Online: Alicization 2 - Episódio 02" alt="Sword Art Online: Alicization 2 - Episódio 02">
+									</a>
+			</div>
+			<a href="https://animesonlinebr.site/video/670276772" class="thumbTT" title="Sword Art Online: Alicization 2 - Episódio 02">Sword Art Online: Alicization 2 - Episódio 02</a>
+		</li>
+				<li>
+			<p>19/10/2019  .</p>
+
+	<div class="episodiosLink"><a href="https://animesonlinebr.site/legendados/53205" title="Mairimashita! Iruma-kun Completo"><button type="button" class="btn btn-primary btn-xs">Episódios</button></a></div> 
+
+			<div class="thumbTel">
+				<a href="https://animesonlinebr.site/video/670276747" title="Mairimashita! Iruma-kun - Episódio 03">
+				    					<img data-src="https://animesonlinebr.site/thumbs/mairimashita-iruma-kun-2019-10-05.jpg" class="lazy" title="Mairimashita! Iruma-kun - Episódio 03" alt="Mairimashita! Iruma-kun - Episódio 03">
+									</a>
+			</div>
+			<a href="https://animesonlinebr.site/video/670276747" class="thumbTT" title="Mairimashita! Iruma-kun - Episódio 03">Mairimashita! Iruma-kun - Episódio 03</a>
+		</li>
+				<li>
+			<p>19/10/2019  .</p>
+
+	<div class="episodiosLink"><a href="https://animesonlinebr.site/legendados/53227" title="Beastars Completo"><button type="button" class="btn btn-primary btn-xs">Episódios</button></a></div> 
+
+			<div class="thumbTel">
+				<a href="https://animesonlinebr.site/video/670276746" title="Beastars - Episódio 02">
+				    					<img data-src="https://animesonlinebr.site/thumbs/beastars-2019-10-11jpeg" class="lazy" title="Beastars - Episódio 02" alt="Beastars - Episódio 02">
+									</a>
+			</div>
+			<a href="https://animesonlinebr.site/video/670276746" class="thumbTT" title="Beastars - Episódio 02">Beastars - Episódio 02</a>
+		</li>
+				<li>
+			<p>19/10/2019  .</p>
+
+	<div class="episodiosLink"><a href="https://animesonlinebr.site/legendados/53165" title="Boku No Hero Academia 4 Completo"><button type="button" class="btn btn-primary btn-xs">Episódios</button></a></div> 
+
+			<div class="thumbTel">
+				<a href="https://animesonlinebr.site/video/670276745" title="Boku No Hero Academia 4 - Episódio 02">
+				    					<img data-src="https://animesonlinebr.site/thumbs/boku-no-hero-academia-4-2019-09-25.jpg" class="lazy" title="Boku No Hero Academia 4 - Episódio 02" alt="Boku No Hero Academia 4 - Episódio 02">
+									</a>
+			</div>
+			<a href="https://animesonlinebr.site/video/670276745" class="thumbTT" title="Boku No Hero Academia 4 - Episódio 02">Boku No Hero Academia 4 - Episódio 02</a>
+		</li>
+				<li>
+			<p>18/10/2019  .</p>
+
+	<div class="episodiosLink"><a href="https://animesonlinebr.site/legendados/53231" title="Kabukichou Sherlock Completo"><button type="button" class="btn btn-primary btn-xs">Episódios</button></a></div> 
+
+			<div class="thumbTel">
+				<a href="https://animesonlinebr.site/video/670276744" title="Kabukichou Sherlock - Episodio 02">
+				    					<img data-src="https://animesonlinebr.site/thumbs/kabukichou-sherlock-2019-10-12.jpg" class="lazy" title="Kabukichou Sherlock - Episodio 02" alt="Kabukichou Sherlock - Episodio 02">
+									</a>
+			</div>
+			<a href="https://animesonlinebr.site/video/670276744" class="thumbTT" title="Kabukichou Sherlock - Episodio 02">Kabukichou Sherlock - Episodio 02</a>
+		</li>
+		
+	</ul>
+	</div>
+	<div id="paginacao" style="margin: 11px auto 18px !important;">
+			<ul>
+				<li><a href="Javascript:void(0);">(1)</a></li><li><a href="https://animesonlinebr.site/page/2">2</a><li><a href="https://animesonlinebr.site/page/3">3</a><li><a href="https://animesonlinebr.site/page/4">4</a><li><a href="https://animesonlinebr.site/page/5">5</a><li><a href="Javascript:void(0);">...</a></li><li><a href="https://animesonlinebr.site/page/431">431</a></li><li><a href="https://animesonlinebr.site/page/432">432</a></li><li><a href="https://animesonlinebr.site/page/2"> » </a></li>			</ul>
+	</div>
+
+
+<div align="center">
+<p align="center">
+<div class="OUTBRAIN" data-src="DROP_PERMALINK_HERE" data-widget-id="AR_1" data-ob-template="Animalog"></div>
+<script type="text/javascript" async src="https://widgets.outbrain.com/outbrain.js"></script>
+</p>
+</div>
+
+<br>
+
+<script src="https://code.jquery.com/jquery-3.4.0.min.js"></script>
+
+
+
+<br>
+
+	</div>
+
+	</div>
+
+</div>
+
+<div id="footer">
+
+<div id="home_only">
+<!-- Begin js tags AdTrue for animesonlinebr.site_728x90 - Do not Modify -->
+<div id="adtrue_tag_13513"></div>
+<script data-cfasync='false' type='text/javascript' src='//cdn.adtrue.com/rtb/async.js' async></script>
+<script type="text/javascript">
+    var adtrue_tags = window.adtrue_tags || [];
+    adtrue_tags.push({
+        tag_id: 13513,
+        width: 728,
+        height: 90
+    });
+</script>
+<!-- End Tags -->
+</div>
+
+         
+
+<div id="tituloSidebar"><center>animesonlinebr.site</center></div>
+
+<h3>
+
+<table style="width: 100%;" border="0">
+
+<tbody>
+
+<tr><td style="text-align: center;">
+
+</td></tr>
+
+<tr>
+
+<td style="text-align: center;">
+
+<br><b>PARCEIROS </b> <br>
+<a href="https://animalog.online" rel="follow" target="_blank" title="ANIMALOG" alt="ANIMALOG" >ANIMALOG</a> | 
+<a href="https://superanimes.tv" rel="follow" target="_blank" title="SUPER ANIMES" alt="SUPER ANIMES" >SUPER ANIMES</a>
+<br>
+<a href="https://www.animesroll.com/" rel="follow" target="_blank" title="ANIMES ROLL" alt="ANIMES ROLL" >ANIMES ROLL</a> | <a href="https://www.animeshd.biz" rel="follow" target="_blank" title="animes hd" alt="animes hd" >AnimesHD Fansub</a>
+
+</BR></BR>
+
+
+
+</BR><b>INFORMAÇÕES ÚTEIS </b> </BR>
+
+<a title="Política Direitos Autorais e DMCA (English)" href="https://goo.gl/forms/zzSE5LEak4gBNtJv2" rel="nofollow" target="_blank">Política Direitos Autorais e DMCA (English)</a></br>
+
+<!-- -->
+<a href="//www.dmca.com/Protection/Status.aspx?ID=b43f4027-fa76-4ab1-b996-39cc3dc55812" title="DMCA.com Protection Status" class="dmca-badge"> <img src ="https://images.dmca.com/Badges/_dmca_premi_badge_1.png?ID=b43f4027-fa76-4ab1-b996-39cc3dc55812"  alt="DMCA.com Protection Status" /></a>  <script src="https://images.dmca.com/Badges/DMCABadgeHelper.min.js"> </script>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</h3>
+
+
+
+
+
+<br><br>
+
+
+
+
+
+<!--/* BANNER TOP 728X90 */-->
+
+
+
+	Assista Animes Online, em seu celular, tablet, smartphone e iphone.  Animes Online BR
+
+	<br>
+
+</div>
+
+
+</div>
+
+
+<script type="text/javascript" src="https://animesonlinebr.site/_public/js/js.js?v=49"></script>
+<script type="text/javascript" src="https://imasdk.googleapis.com/js/sdkloader/ima3.js"></script>
+<script type="text/javascript" src="https://animesonlinebr.site/_public/js/ads.js?v=2"></script>
+
+
+
+
+
+<script type="text/javascript">
+function fecharMenuMobile(){document.getElementById("box-menu-mobile").style.display="none",document.getElementById("bmm-mascara").style.display="none"}
+function abrirMenuMobile(){document.getElementById("box-menu-mobile").style.display="block",document.getElementById("bmm-mascara").style.display="block"}
+function PlayerAba(e,t){var a,n=(document.getElementById("npItens"),document.getElementsByTagName("li"));for(a=0;a<n.length;a++)n[a].classList.remove("ativo");e.classList.add("ativo");var l,m=(document.getElementById("npVideos"),document.getElementsByClassName("npItem"));for(l=0;l<m.length;l++){m[l].style.display="none";var o=m[l].getElementsByTagName("iframe");void 0!=o[0]&&""!=o[0]&&(o[0].getAttributeNode("src").value="")}var s=t.getElementsByTagName("iframe");if(void 0!=s[0]&&""!=s[0]){var d=s[0].getAttribute("data-src");s[0].getAttributeNode("src").value=d}t.style.display="block"}
+</script>
+
+</br></br></br>
+
+<div style="display:none" id="amung">
+<script id="_wau27s">var _wau = _wau || []; _wau.push(["dynamic", "12m6iecbdx", "27s", "000000000000", "small"]);</script><script async src="//waust.at/d.js"></script>
+</div>
+
+</body>
+</html>
+

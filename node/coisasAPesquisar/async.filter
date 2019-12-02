@@ -1,0 +1,5 @@
+async.filter
+
+e uma ação assincrona que filtra alguns dados 
+
+so funciona se ouver um callback 

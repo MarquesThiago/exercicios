@@ -1,0 +1,17 @@
+*gems install os
+
+
+*gens install builder - 
+---------------------
+o builder e responsavel por instalar as dependencias
+
+*para controlar criamos um arquivo 
+=========================
+GemFile
+
+e nele colocamo criamos
+
+
+
+
+

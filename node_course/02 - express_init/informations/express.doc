@@ -1,0 +1,23 @@
+﻿O express é um lib orientada a rotas.
+
+functions
+------any --------
+
+listen função que escuta a porta de saída para o servidor e tem um função de callback.
+
+
+
+rotas
+--------- get our post ---------------
+
+os metodos para entrarmos utlizamos o metodo get e o metodo post
+
+
+
+
+regras
+---- algumas regras --------
+
+listen tende ser a última linha de código.
+
+

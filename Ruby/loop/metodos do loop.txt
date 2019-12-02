@@ -1,0 +1,7 @@
+Importante notar que ha quatro maneiras de interagir com o conteudo do loop, por dentro:
+
+
+break -- sai do loop completamente
+next -- vai para a proxima iteração
+return -- sai do loop e do metodo onde o loop esta contido
+redo -- restarta o loop
